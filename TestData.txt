@@ -1,0 +1,7 @@
+Ed,23
+Ann,45
+Joe,21
+Amy,68
+Ann,36
+Pat,83
+Jon,57
